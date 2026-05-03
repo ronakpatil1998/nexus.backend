@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!-- https://go.microsoft.com/fwlink/?LinkID=208121. -->
+<Project>
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <_PublishTargetUrl>D:\Interview Prepration\AI Image Tagging and Organizer\Nexus.Backend\bin\Release\net9.0\publish\</_PublishTargetUrl>
+    <History>True|2026-05-02T10:57:05.8104399Z||;</History>
+    <LastFailureDetails />
+  </PropertyGroup>
+  <ItemGroup>
+    <DestinationConnectionStrings Include="DefaultConnection">
+      <Value>Server=db50521.databaseasp.net%3b Database=db50521%3b User Id=db50521%3b Password=sQ-24+yNR7%25d%3b Encrypt=False%3b MultipleActiveResultSets=True%3b   </Value>
+    </DestinationConnectionStrings>
+  </ItemGroup>
+  <ItemGroup>
+    <EFMigrations Include="Nexus.Backend.Data.NexusDbContext">
+      <Value>Server=db50521.databaseasp.net%3b Database=db50521%3b User Id=db50521%3b Password=sQ-24+yNR7%25d%3b Encrypt=False%3b MultipleActiveResultSets=True%3b   </Value>
+    </EFMigrations>
+  </ItemGroup>
+</Project>
